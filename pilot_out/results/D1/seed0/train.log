@@ -1,4 +1,0 @@
-2026-11-16 14:40:09,389 variant flags={'degraded_cls': True, 'nce_deg_pos': True, 'pair_loss': True} seed=0 device=cpu train_clips=269
-2026-11-16 14:40:10,900 epoch 1 loss=0.4957 val_auc=1.0000 val_loss=0.0000 *
-2026-11-16 14:40:12,216 epoch 2 loss=0.1909 val_auc=1.0000 val_loss=0.0000
-2026-11-16 14:40:13,520 epoch 3 loss=0.1702 val_auc=1.0000 val_loss=0.0001

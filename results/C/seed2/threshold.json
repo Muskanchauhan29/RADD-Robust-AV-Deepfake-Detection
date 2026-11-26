@@ -1,0 +1,9 @@
+{
+  "threshold": 0.0037588689010590315,
+  "val_eer": 0.41666666666666663,
+  "split": "val",
+  "view": "clean",
+  "n_real": 6,
+  "n_fake": 16,
+  "checkpoint_epoch": 14
+}

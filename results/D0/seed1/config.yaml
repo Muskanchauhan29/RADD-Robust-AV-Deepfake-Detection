@@ -1,0 +1,39 @@
+config:
+  seed: 0
+  data:
+    manifest_dir: manifests
+    cache_dir: features/cache
+    frames: 50
+    fps: 25
+    split_ratios:
+      train: 0.7
+      val: 0.15
+      test: 0.15
+    min_real_videos_per_split: 5
+  model:
+    d: 256
+    layers: 2
+    heads: 4
+    window: 5
+    bias_range: 10
+    proj_dim: 128
+  train:
+    batch_size: 8
+    max_epochs: 30
+    lr: 0.0001
+    weight_decay: 0.01
+    balanced_sampling: true
+    early_stop_metric: val_auc_clean
+    patience: 5
+  desync:
+    max_shift_ms: 200
+  loss:
+    tau: 0.07
+    lambda1: 0.5
+    lambda2: 1.0
+  flags:
+    degraded_cls: true
+    nce_deg_pos: false
+    pair_loss: false
+seed: 1
+git_commit: unknown

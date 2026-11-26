@@ -1,0 +1,9 @@
+2026-11-18 12:13:59,150 variant flags={'degraded_cls': True, 'nce_deg_pos': False, 'pair_loss': True} seed=2 device=cpu train_clips=19
+2026-11-18 12:14:00,346 epoch 1 loss=1.0773 val_auc=0.4688 val_loss=0.6775 *
+2026-11-18 12:14:00,816 epoch 2 loss=1.0341 val_auc=0.5417 val_loss=0.6859 *
+2026-11-18 12:14:01,354 epoch 3 loss=0.9754 val_auc=0.5000 val_loss=0.7034
+2026-11-18 12:14:01,728 epoch 4 loss=0.9100 val_auc=0.5000 val_loss=0.7249
+2026-11-18 12:14:02,094 epoch 5 loss=0.8905 val_auc=0.5000 val_loss=0.7728
+2026-11-18 12:14:02,951 epoch 6 loss=0.8491 val_auc=0.5104 val_loss=1.0014
+2026-11-18 12:14:03,732 epoch 7 loss=0.7436 val_auc=0.5000 val_loss=1.1399
+2026-11-18 12:14:03,733 early stop: no val_auc improvement for 5 epochs

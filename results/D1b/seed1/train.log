@@ -1,0 +1,24 @@
+2026-11-18 12:13:04,894 variant flags={'degraded_cls': True, 'nce_deg_pos': False, 'pair_loss': True} seed=1 device=cpu train_clips=19
+2026-11-18 12:13:05,281 epoch 1 loss=1.0342 val_auc=0.5000 val_loss=0.7016 *
+2026-11-18 12:13:05,662 epoch 2 loss=1.0016 val_auc=0.5104 val_loss=0.7183 *
+2026-11-18 12:13:06,009 epoch 3 loss=0.9264 val_auc=0.5625 val_loss=0.7625 *
+2026-11-18 12:13:06,341 epoch 4 loss=0.8939 val_auc=0.6146 val_loss=0.9269 *
+2026-11-18 12:13:06,677 epoch 5 loss=0.7883 val_auc=0.6875 val_loss=1.1498 *
+2026-11-18 12:13:06,995 epoch 6 loss=0.7321 val_auc=0.6875 val_loss=1.4083
+2026-11-18 12:13:07,316 epoch 7 loss=0.6323 val_auc=0.6979 val_loss=1.6465 *
+2026-11-18 12:13:07,641 epoch 8 loss=0.5381 val_auc=0.7083 val_loss=2.0729 *
+2026-11-18 12:13:07,965 epoch 9 loss=0.4886 val_auc=0.7188 val_loss=2.4534 *
+2026-11-18 12:13:08,351 epoch 10 loss=0.4335 val_auc=0.7396 val_loss=2.6343 *
+2026-11-18 12:13:08,668 epoch 11 loss=0.4081 val_auc=0.7188 val_loss=3.3592
+2026-11-18 12:13:08,981 epoch 12 loss=0.3901 val_auc=0.7292 val_loss=3.3707
+2026-11-18 12:13:09,296 epoch 13 loss=0.3686 val_auc=0.7292 val_loss=3.7934
+2026-11-18 12:13:09,625 epoch 14 loss=0.3699 val_auc=0.7396 val_loss=3.8496 *
+2026-11-18 12:13:09,941 epoch 15 loss=0.3574 val_auc=0.7188 val_loss=4.3482
+2026-11-18 12:13:10,265 epoch 16 loss=0.3619 val_auc=0.7396 val_loss=4.4605
+2026-11-18 12:13:10,596 epoch 17 loss=0.3556 val_auc=0.7500 val_loss=4.5282 *
+2026-11-18 12:13:10,922 epoch 18 loss=0.3510 val_auc=0.7500 val_loss=4.4946
+2026-11-18 12:13:11,258 epoch 19 loss=0.3493 val_auc=0.7500 val_loss=4.4980
+2026-11-18 12:13:11,584 epoch 20 loss=0.3456 val_auc=0.7500 val_loss=4.5521
+2026-11-18 12:13:11,903 epoch 21 loss=0.3519 val_auc=0.7500 val_loss=4.7021
+2026-11-18 12:13:12,216 epoch 22 loss=0.3560 val_auc=0.7500 val_loss=4.8622
+2026-11-18 12:13:12,216 early stop: no val_auc improvement for 5 epochs

@@ -1,0 +1,2 @@
+defaults: base
+flags: {degraded_cls: true, nce_deg_pos: false, pair_loss: false}

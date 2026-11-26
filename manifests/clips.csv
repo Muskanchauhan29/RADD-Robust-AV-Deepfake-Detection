@@ -1,0 +1,56 @@
+clip_id,video_id,identity_id,y,category,split,degradation
+pair1_fake_1_c0,pair1_fake_1,pair1,1,SWAN-DF fake_1,train,noise+gblur
+pair1_fake_1_c1,pair1_fake_1,pair1,1,SWAN-DF fake_1,train,noise+gblur
+pair1_fake_1_c2,pair1_fake_1,pair1,1,SWAN-DF fake_1,train,noise+gblur
+pair1_fake_2_c0,pair1_fake_2,pair1,1,SWAN-DF fake_2,train,noise+gblur
+pair1_fake_2_c1,pair1_fake_2,pair1,1,SWAN-DF fake_2,train,noise+gblur
+pair1_fake_2_c2,pair1_fake_2,pair1,1,SWAN-DF fake_2,train,noise+gblur
+pair1_fake_3_c0,pair1_fake_3,pair1,1,SWAN-DF fake_3,train,noise+gblur
+pair1_fake_3_c1,pair1_fake_3,pair1,1,SWAN-DF fake_3,train,noise+gblur
+pair1_fake_3_c2,pair1_fake_3,pair1,1,SWAN-DF fake_3,train,noise+gblur
+pair1_fake_4_c0,pair1_fake_4,pair1,1,SWAN-DF fake_4,train,noise+gblur
+pair1_fake_4_c1,pair1_fake_4,pair1,1,SWAN-DF fake_4,train,noise+gblur
+pair1_fake_4_c2,pair1_fake_4,pair1,1,SWAN-DF fake_4,train,noise+gblur
+pair1_source_c0,pair1_source,pair1,0,real,train,noise+gblur
+pair1_source_c1,pair1_source,pair1,0,real,train,noise+gblur
+pair1_source_c2,pair1_source,pair1,0,real,train,noise+gblur
+pair1_target_c0,pair1_target,pair1,0,real,train,noise+gblur
+pair1_target_c1,pair1_target,pair1,0,real,train,noise+gblur
+pair1_target_c2,pair1_target,pair1,0,real,train,noise+gblur
+pair1_target_c3,pair1_target,pair1,0,real,train,noise+gblur
+pair2_fake_1_c0,pair2_fake_1,pair2,1,SWAN-DF fake_1,val,noise+gblur
+pair2_fake_1_c1,pair2_fake_1,pair2,1,SWAN-DF fake_1,val,noise+gblur
+pair2_fake_1_c2,pair2_fake_1,pair2,1,SWAN-DF fake_1,val,noise+gblur
+pair2_fake_1_c3,pair2_fake_1,pair2,1,SWAN-DF fake_1,val,noise+gblur
+pair2_fake_2_c0,pair2_fake_2,pair2,1,SWAN-DF fake_2,val,noise+gblur
+pair2_fake_2_c1,pair2_fake_2,pair2,1,SWAN-DF fake_2,val,noise+gblur
+pair2_fake_2_c2,pair2_fake_2,pair2,1,SWAN-DF fake_2,val,noise+gblur
+pair2_fake_2_c3,pair2_fake_2,pair2,1,SWAN-DF fake_2,val,noise+gblur
+pair2_fake_3_c0,pair2_fake_3,pair2,1,SWAN-DF fake_3,val,noise+gblur
+pair2_fake_3_c1,pair2_fake_3,pair2,1,SWAN-DF fake_3,val,noise+gblur
+pair2_fake_3_c2,pair2_fake_3,pair2,1,SWAN-DF fake_3,val,noise+gblur
+pair2_fake_3_c3,pair2_fake_3,pair2,1,SWAN-DF fake_3,val,noise+gblur
+pair2_fake_4_c0,pair2_fake_4,pair2,1,SWAN-DF fake_4,val,noise+gblur
+pair2_fake_4_c1,pair2_fake_4,pair2,1,SWAN-DF fake_4,val,noise+gblur
+pair2_fake_4_c2,pair2_fake_4,pair2,1,SWAN-DF fake_4,val,noise+gblur
+pair2_fake_4_c3,pair2_fake_4,pair2,1,SWAN-DF fake_4,val,noise+gblur
+pair2_source_c0,pair2_source,pair2,0,real,val,noise+gblur
+pair2_source_c1,pair2_source,pair2,0,real,val,noise+gblur
+pair2_source_c2,pair2_source,pair2,0,real,val,noise+gblur
+pair2_source_c3,pair2_source,pair2,0,real,val,noise+gblur
+pair2_target_c0,pair2_target,pair2,0,real,val,noise+gblur
+pair2_target_c1,pair2_target,pair2,0,real,val,noise+gblur
+pair3_fake_1_c0,pair3_fake_1,pair3,1,SWAN-DF fake_1,test,noise+gblur
+pair3_fake_1_c1,pair3_fake_1,pair3,1,SWAN-DF fake_1,test,noise+gblur
+pair3_fake_2_c0,pair3_fake_2,pair3,1,SWAN-DF fake_2,test,noise+gblur
+pair3_fake_2_c1,pair3_fake_2,pair3,1,SWAN-DF fake_2,test,noise+gblur
+pair3_fake_3_c0,pair3_fake_3,pair3,1,SWAN-DF fake_3,test,noise+gblur
+pair3_fake_3_c1,pair3_fake_3,pair3,1,SWAN-DF fake_3,test,noise+gblur
+pair3_fake_4_c0,pair3_fake_4,pair3,1,SWAN-DF fake_4,test,noise+gblur
+pair3_fake_4_c1,pair3_fake_4,pair3,1,SWAN-DF fake_4,test,noise+gblur
+pair3_source_c0,pair3_source,pair3,0,real,test,noise+gblur
+pair3_source_c1,pair3_source,pair3,0,real,test,noise+gblur
+pair3_target_c0,pair3_target,pair3,0,real,test,noise+gblur
+pair3_target_c1,pair3_target,pair3,0,real,test,noise+gblur
+pair3_target_c2,pair3_target,pair3,0,real,test,noise+gblur
+pair3_target_c3,pair3_target,pair3,0,real,test,noise+gblur

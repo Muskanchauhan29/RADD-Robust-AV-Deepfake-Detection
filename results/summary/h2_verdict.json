@@ -1,0 +1,5 @@
+{
+  "outcome": "undetermined: margins unset (D-06)",
+  "n_real_test_videos": 2,
+  "warning": "only 2 real test videos: intervals are unreliable, so any outcome here (including 'supported' or 'redundant') is NOT evidence. Report it as a pilot."
+}

@@ -1,0 +1,19 @@
+video_id,identity_id,label,category,path,split
+pair1_fake_1,pair1,1,SWAN-DF fake_1,demo_videos/pair1/fake_1.mp4,train
+pair1_fake_2,pair1,1,SWAN-DF fake_2,demo_videos/pair1/fake_2.mp4,train
+pair1_fake_3,pair1,1,SWAN-DF fake_3,demo_videos/pair1/fake_3.mp4,train
+pair1_fake_4,pair1,1,SWAN-DF fake_4,demo_videos/pair1/fake_4.mp4,train
+pair1_source,pair1,0,real,demo_videos/pair1/source.mp4,train
+pair1_target,pair1,0,real,demo_videos/pair1/target.mp4,train
+pair2_fake_1,pair2,1,SWAN-DF fake_1,demo_videos/pair2/fake_1.mp4,val
+pair2_fake_2,pair2,1,SWAN-DF fake_2,demo_videos/pair2/fake_2.mp4,val
+pair2_fake_3,pair2,1,SWAN-DF fake_3,demo_videos/pair2/fake_3.mp4,val
+pair2_fake_4,pair2,1,SWAN-DF fake_4,demo_videos/pair2/fake_4.mp4,val
+pair2_source,pair2,0,real,demo_videos/pair2/source.mp4,val
+pair2_target,pair2,0,real,demo_videos/pair2/target.mp4,val
+pair3_fake_1,pair3,1,SWAN-DF fake_1,demo_videos/pair3/fake_1.mp4,test
+pair3_fake_2,pair3,1,SWAN-DF fake_2,demo_videos/pair3/fake_2.mp4,test
+pair3_fake_3,pair3,1,SWAN-DF fake_3,demo_videos/pair3/fake_3.mp4,test
+pair3_fake_4,pair3,1,SWAN-DF fake_4,demo_videos/pair3/fake_4.mp4,test
+pair3_source,pair3,0,real,demo_videos/pair3/source.mp4,test
+pair3_target,pair3,0,real,demo_videos/pair3/target.mp4,test

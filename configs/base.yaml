@@ -1,0 +1,21 @@
+# Shared by all five variants. Variants differ ONLY in `flags` (Table 10). Values not given by the paper are [Proposed].
+seed: 0
+data:
+  manifest_dir: manifests
+  cache_dir: features/cache
+  frames: 50
+  fps: 25
+  split_ratios: {train: 0.70, val: 0.15, test: 0.15}   # [Proposed] needs approval
+  min_real_videos_per_split: 5                          # [Proposed] guard value, tied to D-03
+model: {d: 256, layers: 2, heads: 4, window: 5, bias_range: 10, proj_dim: 128}   # bias range vs window: D-07
+train:
+  batch_size: 32
+  max_epochs: 30
+  lr: 1.0e-4
+  weight_decay: 1.0e-2
+  balanced_sampling: true
+  early_stop_metric: val_auc_clean                      # metric: decision D-10
+  patience: 5                                           # [Proposed] epochs without val improvement
+desync: {max_shift_ms: null}                            # D-13: NOT SET; training refuses to run until approved
+loss: {tau: 0.07, lambda1: 0.5, lambda2: 1.0}
+flags: {degraded_cls: false, nce_deg_pos: false, pair_loss: false}   # desync negatives always on

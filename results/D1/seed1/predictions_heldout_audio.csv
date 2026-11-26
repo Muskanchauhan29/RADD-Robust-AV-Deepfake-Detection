@@ -1,0 +1,15 @@
+clip_id,video_id,category,y,p_fake,prediction,mean_c,drift,emb_dist
+pair3_fake_1_c0,pair3_fake_1,SWAN-DF fake_1,1,6.331868e-05,0,0.9999918,5.4359435e-07,0.0007937044
+pair3_fake_1_c1,pair3_fake_1,SWAN-DF fake_1,1,5.3625245e-05,0,0.99999326,3.7670137e-07,0.004086776
+pair3_fake_2_c0,pair3_fake_2,SWAN-DF fake_2,1,8.329945e-05,0,0.9999903,6.890297e-07,0.00068328204
+pair3_fake_2_c1,pair3_fake_2,SWAN-DF fake_2,1,7.44503e-05,0,0.99999106,1.0752678e-06,0.0018864179
+pair3_fake_3_c0,pair3_fake_3,SWAN-DF fake_3,1,6.3852334e-05,0,0.9999922,9.274483e-07,0.0010770011
+pair3_fake_3_c1,pair3_fake_3,SWAN-DF fake_3,1,5.163965e-05,0,0.9999927,1.2087822e-06,0.0048014694
+pair3_fake_4_c0,pair3_fake_4,SWAN-DF fake_4,1,9.866991e-05,0,0.9999893,1.1920929e-06,0.0011945158
+pair3_fake_4_c1,pair3_fake_4,SWAN-DF fake_4,1,8.412638e-05,0,0.9999902,1.1801719e-06,0.002900635
+pair3_source_c0,pair3_source,real,0,2.8407927e-05,0,0.9999961,6.6041946e-07,0.002173324
+pair3_source_c1,pair3_source,real,0,3.2043998e-05,0,0.9999956,5.9604645e-07,0.005480661
+pair3_target_c0,pair3_target,real,0,4.872922e-05,0,0.9999937,2.69413e-07,0.0014882653
+pair3_target_c1,pair3_target,real,0,3.7506674e-05,0,0.9999953,3.2901764e-07,0.0061942157
+pair3_target_c2,pair3_target,real,0,2.6444e-05,0,0.9999961,5.7220458e-08,0.0036677665
+pair3_target_c3,pair3_target,real,0,3.159756e-05,0,0.9999948,3.9577483e-07,0.0008901799

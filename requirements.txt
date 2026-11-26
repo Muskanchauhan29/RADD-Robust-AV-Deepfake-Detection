@@ -1,7 +1,17 @@
+streamlit
 numpy
 pandas
+matplotlib
 pyyaml
-pytest
 scipy
+scikit-learn
 opencv-python-headless
-streamlit
+pillow
+pytest
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+torchaudio
+transformers
+soundfile
